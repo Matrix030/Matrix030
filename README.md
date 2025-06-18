@@ -27,7 +27,7 @@ This is me. I love to code something which no one asked for just because I can. 
 ## When I'm Not Coding
 * Perfecting my Neovim config (again) - every keystroke should be beautiful and efficient
 * Rice-ing my window manager until my desktop is a work of art that actually boosts productivity
-* Learning Go to build TUI apps because terminals deserve love too
+* Currently learning Go to build TUI apps because terminals deserve love too
 * Reading research papers and then implementing them for the challenge
 * Optimizing things that definitely don't need optimizing
 
