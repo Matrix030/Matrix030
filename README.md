@@ -8,7 +8,7 @@ To me, a good looking config is not only for aesthetics - it's the secret weapon
 ## Things I've Built That Nobody Asked For
 * **SteamLensAI**: Started as a simple game recommendation system, ended up processing 400k reviews in 3 minutes because the data was too interesting to ignore. Now it gives game developers actionable feedback from player sentiment in **minutes**.... **GLORIOUS Distrbuted parallel processing!!**
 * **LocalPilotAI**: Built an offline AI coding assistant because i am not gonna write boilerplate code
-* **NYC Transit Hub**: Real-time MTA data because public transit info shouldn't suck (won a hackathon with this one) - Did I tell you that it was built in 8 hours?
+* **NYC Transit Hub**: Real-time MTA data because public transit info shouldn't suck (**won** a hackathon with this one) - Did I tell you that it was built in **8** hours?
 * **QuantumHealthShield**: Post-quantum cryptography for medical records because the future needs better security
 
 ## When I'm Not Coding
