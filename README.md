@@ -19,4 +19,4 @@ To me, a good looking config is not only for aesthetics - it's the secret weapon
 * Optimizing things that definitely don't need optimizing
 
 ## Stack I Actually Use
-Python, JavaScript/TypeScript, React/Next.js, Node.js, Dask, SBERT, transformers, AWS/GCP, Docker, and whatever gets the job done.
+Python, JavaScript/TypeScript, React/Next.js, Node.js, Dask, transformers, AWS/GCP, Docker, and whatever gets the job done.
