@@ -14,7 +14,7 @@ To me, a good looking config is not only for aesthetics - it's the secret weapon
 ## When I'm Not Coding
 * Perfecting my Neovim config (again) - every keystroke should be beautiful and efficient
 * Rice-ing my i3WM until my desktop is a work of art for maximum throughput, just like my projects
-* Currently learning Go to build TUI apps because terminals deserve love too
+* **Currently learning Go because terminal.shop is pretty cool**
 * Reading research papers and then implementing them for the challenge
 * Optimizing things that definitely don't need optimizing
 
