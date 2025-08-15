@@ -1,5 +1,5 @@
 # Rishikesh Gharat
-
+I run an absolute glass cannon of a build — Arch Linux. Tuned for maximum productivity… you know how it is
 ## Things I've Built
 * **SteamLensAI**: Started as a simple game recommendation system, ended up processing 400k reviews in 3 minutes because the data was too interesting to ignore. Now it gives game developers actionable feedback from player sentiment in **minutes**.... **GLORIOUS Distrbuted parallel processing!!**
 * **LocalPilotAI**: Built an offline AI coding assistant because i am not gonna write boilerplate code
