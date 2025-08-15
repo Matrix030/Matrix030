@@ -7,9 +7,8 @@ I run an absolute glass cannon of a build — Arch Linux. Tuned for maximum prod
 * **QuantumHealthShield**: Post-quantum cryptography for medical records because... Okay this one was asked for by my professor
 
 ## When I'm Not Coding
-* Perfecting my Neovim config (again) - every keystroke should be beautiful and efficient
-* Riceing my hyprland config until my desktop is a work of art for maximum throughput, just like my projects
 * **Currently heavily invested in concurrency in Golang, CUDA and Python because prallelization and scalability is pretty cool**
+* Riceing my hyprland config until my desktop is a work of art for maximum throughput, just like my projects
 * Reading research papers and then implementing them for the challenge
 
 ## Stack I Actually Use
