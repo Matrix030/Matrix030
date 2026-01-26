@@ -1,7 +1,7 @@
 # Rishikesh Gharat
 
 ## Things I've Built
-* **SimplifyJobsDaemon**: Go daemon that monitors job postings, scrapes descriptions, runs them through a local LLM, and auto-generates tailored resumes using LibreOffice API.
+* **SimplifyJobsDaemon**: Go daemon that monitors job postings, scrapes descriptions, runs them through a local LLM, and auto-generates tailored resumes using LibreOffice API for a **local agentic workflow**.
 * **SteamLensAI**: Started as a simple game recommendation system, ended up processing 400k reviews in 3 minutes because the data was too interesting to ignore. Now it gives game developers actionable feedback from player sentiment in **minutes**.... GLORIOUS Distributed parallel processing!!
 * **LocalPilotAI**: Built an offline AI coding assistant because i am not gonna write boilerplate code
 * **NYC Transit Hub**: Real-time MTA data because public transit info shouldn't suck (won a hackathon with this one) - Did I tell you that it was built in 8 hours?
